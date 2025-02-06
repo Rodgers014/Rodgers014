@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rodgers014
+- 👋 Hi, I’m Rodgers Mutwiri
 - 👀 I’m interested in ...designing websites
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...
